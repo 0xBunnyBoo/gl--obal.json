@@ -1,1 +1,7 @@
-# gl--obal.json
+{
+  "sdk": {
+    "version": "10.0.300",
+    "rollForward": "latestMajor",
+    "allowPrerelease": false
+  }
+}00
